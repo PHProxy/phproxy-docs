@@ -1,6 +1,6 @@
 site_name: "PHProxy: Documentation"
 site_url: https://phproxy.github.io/phproxy-docs/
-site_favicon: images/favicon.ico
+site_favicon: images/logo.png
 copyright: 'Copyright &copy; 2017 Phoenix Eve Aspacio'
 repo_name: PHProxy/phproxy
 repo_url: https://github.com/PHProxy/phproxy
